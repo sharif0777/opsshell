@@ -4,8 +4,8 @@ packages=("argparse" "importlib" "ast" "paramiko" "fabric2" "shutil-extra" "date
 
 for package in "${packages[@]}"
 do
-    pip install "$package"
+    pip3 install "$package" --upgrade > /dev/null
 done
 
-echo "All packages installed successfully."
+echo "[ ✔ ] All packages installed successfully."
 
