@@ -1,6 +1,6 @@
 #!/bin/bash
 
-packages=("argparse" "importlib" "ast" "paramiko" "fabric2" "shutil-extra" "datetime" "tempfile2" "sh" "requests" "PyYAML" "cryptography" "pycryptodome")
+packages=("argparse" "importlib" "ast" "paramiko" "fabric2" "shutil-extra" "datetime" "tempfile2" "sh" "requests" "PyYAML" "cryptography" "pycryptodome" "ntplib")
 
 for package in "${packages[@]}"
 do
