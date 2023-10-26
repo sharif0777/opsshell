@@ -2,5 +2,5 @@ client_id: xxxxxxx
 name: Dear Free user
 email: opsshell@gmail.com
 user_type: Free
-expire_date: ∞
+expire_date:
 license_type: free
