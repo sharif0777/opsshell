@@ -4,3 +4,5 @@ email: opsshell@gmail.com
 user_type: Free
 expire_date:
 license_type: free
+
+special_module_permission: ['behave', 'enum34']
